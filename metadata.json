@@ -1,0 +1,6 @@
+{
+  "name": "MebelAI - Aqlli Mebel Konstruktori va Smeta Hisoblagich",
+  "description": "Devor o'lchamlari bo'yicha interaktiv mebel loyihalash, oyna, eshik va javonlarni joylashtirish hamda AI yordamida smeta va xarajatlarni aniqlash dasturi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
